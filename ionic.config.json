@@ -1,0 +1,7 @@
+{
+  "name": "KPMobIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
